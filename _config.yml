@@ -9,9 +9,9 @@ twitter_username: fuck
 github_username:  yeah
 
 # Build settings
-markdown: kramdown
+markdown: jvg
 
-paginate: 50
+paginate: 4
 
 author: Your name
 
