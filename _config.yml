@@ -11,7 +11,7 @@ github_username:  yeah
 # Build settings
 markdown: kramdown
 
-paginate: 4
+paginate: 50
 
 author: Your name
 
